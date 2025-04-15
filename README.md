@@ -40,6 +40,7 @@ Alinhadas às metodologias ágeis de desenvolvimento, serão utilizadas tecnolog
 ### Frontend
 - HTML
 - CSS
+- JavaScript 
 
 ##
 
